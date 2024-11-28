@@ -1,0 +1,16 @@
+pdrb
+Rendah itu di 7,9 - 13,4 di kabupaten = bangli dan klungkung,
+kemudain jembarna dan karangasem dengan scor terendah ke 2, ke tiga yaitu tabanan,
+ke empat  gianyar dan bulelang, dan ertinggi yaitu badung dan denpasar dengan scor ,547,1-68,4
+
+Kepadatan
+rendah yaitu jembarna dan bangli dengan scor 0,368 - 0,533, dan keuda terendah yitu bulelang dan tabanan dengan  , ke tiga yaitu karangasem  , ke empatu gianyar dan badung , dan tertinggi yaitu denpasar dan klungkung 2,966-7,095
+
+ipm
+terendah itu karangasm dan bangli dngan scor terendah itu 66,7 - 73, keudian ke 2 kelungkung dan  bulelang , ke tiga yaitu : jembarna , ke empat itu gianyar dan tabanan, dan tertinggi yiaitu denpasar dan badung 81,4 85,2
+
+angkatan kerja
+terendah banglu dan klungkung dengan scor 128-191, ke dua tabanan dan jembarna , ke tiga karangasem, ke empat gianyar dan badung, trtinggi yaitu  denpasar dan bulelang dengan scor 381 - 505
+
+tingkat_pengangguran
+terendah bangli dan klungkung dengan scor 0.007 -0,0138 , ke dua karangasem dan jembarna,ke tiga tabanan dan badung , ke empat badung , dan tertinggi denpasar dan bulelang dangan scor 0,00194-0,0021
